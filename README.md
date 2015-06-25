@@ -1,1 +1,1 @@
-# AngularJs2-CucumberJs
+# AngularJs-Jasmine
