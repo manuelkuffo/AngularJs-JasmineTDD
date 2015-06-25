@@ -1,0 +1,20 @@
+{
+  "name": "AngularJs-Jasmine",
+  "version": "1.0.1",
+  "description": "Un Ejemplo de AngularJs y Jasmine",
+  "author": "Manuel Kuffo",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manuelkuffo/AngularJs2-CucumberJs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "angular": "latest",
+    "angular-mocks": "latest",
+    "jasmine": "latest",
+    "karma-jasmine" : "latest",
+    "karma-chrome-launcher" : "latest"
+  }
+}
+
